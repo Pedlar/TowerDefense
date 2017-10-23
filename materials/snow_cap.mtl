@@ -1,0 +1,8 @@
+<Material MtlFlags="524288" Shader="Terrain.Layer" GenMask="200000080" StringGenMask="%DETAIL_MAPPING%TEMP_TERRAIN" SurfaceType="mat_snow" Diffuse="1,1,1,1" Specular="0.045000002,0.045000002,0.045000002,1" Opacity="1" Shininess="10" vertModifType="1" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="engineassets/textures/white.dds"/>
+  <Texture Map="Detail" File="engineassets/textures/frost_refl2.dds"/>
+ </Textures>
+ <VertexDeform Type="1" DividerX="5.1700001" DividerY="0.0099999998" NoiseScale="1,1,1"/>
+ <PublicParams BlendFalloff="1" DetailTextureStrength="1" DetailDiffuseScale="0.5" DetailBumpScale="0.5" BlendFactor="0" DetailGlossScale="0.5" IndirectColor="0.25,0.25,0.25"/>
+</Material>

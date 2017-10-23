@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for TowerDefense",
+    "visual_studio_name": "TowerDefense",
+    "comment" : "",
+    "game_projects" : "TowerDefense",
+
+    "modules" : [
+    ]
+}
